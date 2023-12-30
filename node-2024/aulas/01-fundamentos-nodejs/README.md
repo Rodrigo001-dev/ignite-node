@@ -33,7 +33,7 @@ $ npm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 1]():
+[Desafio 1](): Desafio feito para praticar os fundamentos do NodeJS
 
 ## 💻 Autor
 
