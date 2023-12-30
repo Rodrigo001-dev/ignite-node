@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![]()
+![Fundamentos Node Gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/aulas/01-fundamentos-nodejs/.github/images/fundamentos-node.gif)
 
 > Essa é a primeira aplicação criada na trilha Node da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi aprender os fundamentos do node sem utilizar qualquer biblioteca ou framework, aprendendo como criar rotas, sobre Streams, bando de dados e muito mais.
 
@@ -33,7 +33,7 @@ $ npm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 1](): Desafio feito para praticar os fundamentos do NodeJS
+[Desafio 1](https://github.com/Rodrigo001-dev/ignite-node/tree/main/node-2024/desafios/ignite-challenge-01): Desafio feito para praticar os fundamentos do NodeJS
 
 ## 💻 Autor
 

@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![]()
+![Ignite Challenge 01 gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/desafios/ignite-challenge-01/.github/images/ignite-challenge-01.gif)
 
 > <b>Primeiro Desafio</b> da trilha de Node da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar uma API CRUD de tasks(tarefas), nela é possível criar, listar, atualizar, remover, marcar como concluido e importar um arquivo CSV de tasks para ele seja lido do forma gradual utilizando steam do Node.
 
