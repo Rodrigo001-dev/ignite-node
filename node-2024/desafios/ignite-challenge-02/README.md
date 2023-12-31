@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Ignite Challenge 02 gif]()
+![Ignite Challenge 02 gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/desafios/ignite-challenge-02/.github/images/ignite-challenge-02.gif)
 
 > <b>Daily Diet</b> é o segundo desafio da trilha de Node da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar uma API REST de controle de dieta diária para praticar os conceitos aprendidos no segundo módulo.
 

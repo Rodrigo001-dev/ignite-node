@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![API Rest Gif]()
+![API Rest Gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/aulas/02-api-rest-nodejs/.github/images/ignite-api-rest.gif)
 
 > Essa é a segunda aplicação criada na trilha Node da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar uma API Rest completa utilizando um micro-framework Fastify em conjunto com o query builder Knex.js
 
@@ -36,7 +36,7 @@ $ npm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 2 - Daily Diet API]():
+[Desafio 2 - Daily Diet API](https://github.com/Rodrigo001-dev/ignite-node/tree/main/node-2024/desafios/ignite-challenge-02): API Rest para controle de dieta diária para praticar os conceitos aprendidos no segundo módulo
 
 ## 💻 Autor
 
