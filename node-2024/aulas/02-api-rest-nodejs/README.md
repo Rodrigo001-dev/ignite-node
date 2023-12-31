@@ -9,7 +9,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-32CD32?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"> </a>
 <a href="https://www.fastify.io/" target="_blank"> <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"> </a>
-<a href="https://www.prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/-Knex-ff8144?style=flat-square&logo=knex&logoColor=white" alt="Knex"> </a>
+<a href="https://knexjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Knex-ff8144?style=flat-square&logo=knex&logoColor=white" alt="Knex"> </a>
 <a href="https://vitest.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Vitest-86B91A?style=flat-square&logo=vite&logoColor=white" alt="Vitest"> </a>
 
 ## :construction_worker: Executando
@@ -36,7 +36,7 @@ $ npm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 2]():
+[Desafio 2 - Daily Diet API]():
 
 ## 💻 Autor
 
