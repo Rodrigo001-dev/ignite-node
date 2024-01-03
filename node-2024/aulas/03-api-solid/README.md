@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![API SOLID Gif]()
+![API SOLID Gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/aulas/03-api-solid/.github/images/ignite-api-solid.gif)
 
 > Essa é a terceira aplicação criada na trilha Node da [Rocketseat](https://github.com/Rocketseat), nela o objetivo foi criar uma API para que o usuário realize check-ins em academias, nessa aplicação foi aprendido alguns conceitos mais avançados, de arquitetura, padrões de código e desacoplamento. Um dos conceitos mais abordados foi o SOLID.
 
@@ -36,7 +36,7 @@ $ npm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 3 - Find A Friend](): API SOLID de adoção de animais
+[Desafio 3 - Find A Friend](https://github.com/Rodrigo001-dev/ignite-node/tree/main/node-2024/desafios/ignite-challenge-03): API SOLID de adoção de animais
 
 ## 💻 Autor
 

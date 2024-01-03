@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![Ignite Challenge 03 gif]()
+![Ignite Challenge 03 gif](https://github.com/Rodrigo001-dev/ignite-node/blob/main/node-2024/desafios/ignite-challenge-03/.github/images/ignite-challenge-03.gif)
 
 > <b>Find A Friend</b> é o terceiro desafio da trilha de Node da [Rocketseat](https://github.com/Rocketseat), que tem por objetivo criar uma API SOLID com testes automatizados de adoção de animais para praticar os conceitos vistos nesse módulo.
 
