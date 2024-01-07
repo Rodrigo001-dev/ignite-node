@@ -1,6 +1,6 @@
-import { Entity } from '../../../../core/entities/entity'
-import { UniqueEntityID } from '../../../../core/entities/unique-entity-id'
-import { Optional } from '../../../../core/types/optional'
+import { Entity } from '@/core/entities/entity'
+import { UniqueEntityID } from '@/core/entities/unique-entity-id'
+import { Optional } from '@/core/types/optional'
 
 export interface AnswerProps {
   authorId: UniqueEntityID
@@ -51,7 +51,7 @@ export class Answer extends Entity<AnswerProps> {
     const answer = new Answer(
       {
         ...props,
-        createdAt: new Date(),
+        createdAt: props.createdAt ?? new Date(),
       },
       id,
     )
