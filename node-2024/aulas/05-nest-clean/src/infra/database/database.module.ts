@@ -29,7 +29,10 @@ import { PrismaAttachmentsRepository } from './prisma/repositories/prisma-attach
 import { PrismaNotificationsRepository } from './prisma/repositories/prisma-notifications-repository'
 import { NotificationsRepository } from '@/domain/notification/application/repositories/notifications-repository'
 
+import { CacheModule } from '../cache/cache.module'
+
 @Module({
+  imports: [CacheModule],
   providers: [
     PrismaService,
     {
