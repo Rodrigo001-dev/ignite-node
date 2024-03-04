@@ -35,7 +35,7 @@ $ pnpm run dev
 
 # :atom_symbol: Desafios
 
-[Desafio 4 - Fast Feet]():
+[Desafio 4 - Fast Feet](https://github.com/Rodrigo001-dev/ignite-node/tree/main/node-2024/desafios/ignite-challenge-04): API para controle de encomendas de uma transportadora
 
 ## 💻 Autor
 
